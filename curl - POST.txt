@@ -1,1 +1,0 @@
-set TOKEN="curl -d '{"email":"sample@example.com","password":"adam"}' -H "Content-Type: application/json" -X POST localhost:8080/auth | jq -R ".token" "

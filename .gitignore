@@ -30,5 +30,5 @@ htmlcov/
 
 AWS/
 examples/
-.create_role.txt
-.curl - POST.txt
+create_role.txt
+curl - POST.txt
