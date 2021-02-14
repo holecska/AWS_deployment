@@ -1,0 +1,1 @@
+aws iam create-role --role-name UdacityFlaskDeployCBKubectlRole --assume-role-policy-document file://"C:/Users/Adam/Desktop/Web Development/Courses/Udacity Full Stack Development/Projects/AWS_deployment/trust.json" --output text --query 'Role.Arn'
